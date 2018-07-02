@@ -1,0 +1,1 @@
+<h1>Category's Admin</h1>

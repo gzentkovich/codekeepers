@@ -1,0 +1,17 @@
+.img-spacer-10 {
+    margin-right: 10px;
+}
+
+a:not(.btn) {
+    -webkit-transition: initial;
+    transition: initial;
+    text-decoration: none !important;
+    color: #969696;
+}
+
+.card-header-top {
+    padding: 0.75rem 1.25rem;
+    background-color: rgba(0, 0, 0, 0.03);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+    margin-bottom: 2px;
+}
